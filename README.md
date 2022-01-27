@@ -1,6 +1,6 @@
 # Chatbot example (updated for NodeJS v17.4)
 
-This is a chatbot sample code built for an article on FreeCodeCamp. It's built using [react-chatbot-kit](https://github.com/FredrikOseberg/react-chatbot-kit).
+This is a chatbot sample code built for an article on FreeCodeCamp. It's built using [react-chatbot-kit](https://www.freecodecamp.org/news/how-to-build-a-chatbot-with-react/).
 
 ## Usage
 
